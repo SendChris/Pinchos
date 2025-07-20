@@ -1,0 +1,8 @@
+{
+    "name": "Pinchos Map",
+    "short_name": "Pinchos",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Offline map to locate Pinchos in Puerto Rico"
+}
